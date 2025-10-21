@@ -1,10 +1,10 @@
 # Hugo configuration file
-title: My Site
+title: Suabia Ediciones | Editorial | Burgos
 
 # import hextra as module
 module:
   imports:
-    - path: github.com/imfing/hextra
+  - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
@@ -16,41 +16,166 @@ markup:
   highlight:
     noClasses: false
 
+defaultContentLanguage: es
+languages:
+  es:
+    languageName: Español
+    weight: 1
+#  en:
+#    languageName: English
+#    weight: 2
+#  fr:
+#    languageName: Français
+#    weight: 3
+
+
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - identifier: publicaciones
+      name: Publicaciones
+      pageRef: /publicaciones
       weight: 1
-    - name: About
-      pageRef: /about
+    - identifier: premio
+      name: Premio
+      pageRef: /premio
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - identifier: noticias
+      name: Noticias
+      pageRef: /noticias
       weight: 3
-    - name: Search
+    - identifier: contacto
+      name: Contacto
+      params:
+        type: link
+        icon: user
+      pageRef: /contacto
       weight: 4
-      params:
-        type: search
-    - name: GitHub
+    - name: Search
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
       params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+       type: search
+
+#    - name: About
+#      pageRef: /about
+#      weight: 2
+#    - name: Contact ↗
+#      url: "https://github.com/imfing"
+#      weight: 3
+
+
+
+
+#    - name: GitHub
+#      weight: 5
+#      url: "https://github.com/imfing/hextra-starter-template"
+#      params:
+#        icon: github
+#    - name: Twitter
+#      weight: 6
+#      url: "https://twitter.com/"
+#      params:
+#        icon: x-twitter
+
+
+#  sidebar:
+#    - identifier: privacidad
+#      name: Política de privacidad y cookies
+#      params:
+#        type: separator
+#      weight: 1
+#    - identifier: cookies
+#      name: "Cookies"
+#      pageRef: "cookies"
+#      weight: 2
+#    - identifier: hugoDocs
+#      name: "Hugo Docs ↗"
+#      url: "https://gohugo.io/documentation/"
+#      weight: 3
 
 params:
+  description: Suabia Ediciones es una plataforma editorial nacida en Burgos en noviembre de 2019, coincidiendo con el VIII centenario del matrimonio de Beatriz de Suabia con Fernando III el Santo en la catedral de Burgos. La vocación de la editorial es la promoción de la lectura, la literatura y la edición impresa primando la calidad, el gusto por la palabra, las letras y el libro como elemento de difusión cultural.
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: img/suabia/logo_c.png
+    #  dark: 
+      link: /
+      width: 30%
+      height: 30%
+
+  page:
+    # full (100%), wide (90rem), normal (80rem)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: true
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  # Display the last modification date
+  displayUpdatedDate: false
+  dateFormat: "January 2, 2006"
+
+  # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
 
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
+    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+
+    article:
+      displayPagination: false
+
+  highlight:
+    copy:
+      enable: false
+      # hover | always
+      display: hover
+
+  comments:
+    enable: false
+    type: giscus
+  
+  # analytics:
+  #  umami:
+  #    serverURL: "https://cloud.umami.is"
+  #    websiteID: "bf1deda4-7572-4fb0-9347-4f29c731e162"
+  #    scriptName: "umami.js" # optional (default: umami.js)
+      # https://umami.is/docs/tracker-configuration#data-host-url
+      # hostURL: "http://stats.quintana-abogados.com" # optional
+      # https://umami.is/docs/tracker-configuration#data-auto-track
+      # autoTrack: "false" # optional
+      # https://umami.is/docs/tracker-configuration#data-tag
+      # domains: "example.net,example.org" # optional
+      # https://umami.is/docs/tracker-configuration#data-exclude-search
+      # tag: "umami-eu" # optional
+      # https://umami.is/docs/tracker-configuration#data-exclude-hash
+      # excludeSearch: "true" # optional
+      # https://umami.is/docs/tracker-configuration#data-do-not-track
+      # excludeHash: "true" # optional
+      # https://umami.is/docs/tracker-configuration#data-domains
+      #doNotTrack: "true" # optional
