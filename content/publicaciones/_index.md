@@ -29,9 +29,9 @@ breadcrumbs: false
 
   {{< card link="/" title="UN NUEVO MUNDO VIENE" image=/img/cuadros/unnuevomundo_c.png subtitle="Jesús J. de la Gándara Martín" >}}
 
-  {{< card link="/" title="PURO UMBRAL" image=/img/cuadros/puroumbral_c.png subtitle="María Jesús Jabato" >}}
+  {{< card link="/publicaciones/puro_umbral" title="PURO UMBRAL" image=/img/cuadros/puroumbral_c.png subtitle="María Jesús Jabato" >}}
 
-  {{< card link="/" title="APTO CUM LAUDE" image=/img/cuadros/aptocumlaude_c.png subtitle="José Nicanor Alonso Álvarez" >}}
+  {{< card link="/publicaciones/apto_cum_laude" title="APTO CUM LAUDE" image=/img/cuadros/aptocumlaude_c.png subtitle="José Nicanor Alonso Álvarez" >}}
 
   {{< card link="/publicaciones/la_sociedad_filarmonica_de_burgos_i" title="LA SOCIEDAD FILARMÓNICA DE BURGOS I" image=/img/cuadros/sfb1_c.png subtitle="María Jesús Jabato" >}}
 
