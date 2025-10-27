@@ -4,8 +4,8 @@ description:
 toc: false
 breadcrumbs: false
 cascade:
-  type: about
-  breadcrumbs: true
+  sidebar:
+    exclude: true
 ---
 
 ## Publicaciones
@@ -46,7 +46,7 @@ cascade:
 
   {{< card link="/" title="BURGOS, MEMORIA SENTIMENTAL" image=/img/cuadros/burgosmemoria_c.png subtitle="Fernando Ortega Barriuso" >}}
 
-  {{< card link="/" title="SI TE DICEN QUE SALÍ..." image=/img/cuadros/sitedicen_c.png subtitle="Jesús Toledano Escribano" >}}
+  {{< card link="/publicaciones/si_te_dicen_que_sali" title="SI TE DICEN QUE SALÍ..." image=/img/cuadros/sitedicen_c.png subtitle="Jesús Toledano Escribano" >}}
 
-  {{< card link="/" title="LOS ÁNGELES DE LA CATEDRAL" image=/img/cuadros/losangeles_c.png subtitle="María Jesús Jabato / Laura Esteban" >}}
+  {{< card link="/publicaciones/los_angeles_de_la_catedral" title="LOS ÁNGELES DE LA CATEDRAL" image=/img/cuadros/losangeles_c.png subtitle="María Jesús Jabato / Laura Esteban" >}}
 {{< /cards >}}
