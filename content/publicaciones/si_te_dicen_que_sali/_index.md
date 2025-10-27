@@ -1,9 +1,12 @@
 ---
 title: Si te dicen que salí...
-description: Jesús Toledano Escribano. 
+description: Jesús Toledano Escribano. Este libro es, como señala el autor en la introducción, un tratado de nostalgia que recoge en sus páginas la gran mayoría de los locales que en los años ochenta del pasado siglo XX.
 toc: false
 breadcrumbs: true
 type: about
+cascade:
+  sidebar:
+    exclude: true
 ---
 <br class="hx:sm:block hx:hidden" />
 {{< hextra/hero-subtitle >}}

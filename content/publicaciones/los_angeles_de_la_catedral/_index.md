@@ -4,6 +4,9 @@ description: María Jesús Jabato. Laura Esteban. Los ángeles de la Catedral es
 toc: false
 breadcrumbs: true
 type: about
+cascade:
+  sidebar:
+    exclude: true
 ---
 <br class="hx:sm:block hx:hidden" />
 {{< hextra/hero-subtitle >}}

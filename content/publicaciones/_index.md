@@ -3,9 +3,6 @@ title: Publicaciones
 description:
 toc: false
 breadcrumbs: false
-cascade:
-  sidebar:
-    exclude: true
 ---
 
 ## Publicaciones
