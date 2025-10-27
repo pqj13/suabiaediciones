@@ -9,23 +9,23 @@ breadcrumbs: false
 
 {{< cards >}}
  
-  {{< card link="/" title="LOS ABRAZOS INHABITADOS" image=/img/cuadros/losabrazos_c.png subtitle="Pablo Rodríguez González" >}}
+  {{< card link="/publicaciones/los_abrazos_inhabitados" title="LOS ABRAZOS INHABITADOS" image=/img/cuadros/losabrazos_c.png subtitle="Pablo Rodríguez González" >}}
 
-  {{< card link="/" title="CUENTOS PARA NO CONTAR" image=/img/cuadros/cuentosparanocontar_c.png subtitle="Pablo del Barco" >}}
+  {{< card link="/publicaciones/cuentos_para_no_contar" title="CUENTOS PARA NO CONTAR" image=/img/cuadros/cuentosparanocontar_c.png subtitle="Pablo del Barco" >}}
 
-  {{< card link="/" title="CUADERNO DE VIAJE DE COMILLAS" image=/img/cuadros/cuadernodeviaje_c.png subtitle="María Jesús Jabato / Laura Esteban" >}}
+  {{< card link="/publicaciones/cuaderno_de_viaje_de_comillas" title="CUADERNO DE VIAJE DE COMILLAS" image=/img/cuadros/cuadernodeviaje_c.png subtitle="María Jesús Jabato / Laura Esteban" >}}
 
-  {{< card link="/" title="TAL COMO FUIMOS. BURGOS 1969" image=/img/cuadros/talcomofuimos_c.png subtitle="Manuel Cámara Moral" >}}
+  {{< card link="/publicaciones/tal_como_fuimos" title="TAL COMO FUIMOS. BURGOS 1969" image=/img/cuadros/talcomofuimos_c.png subtitle="Manuel Cámara Moral" >}}
 
-  {{< card link="/" title="LA SOCIEDAD FILARMÓNICA DE BURGOS II" image=/img/cuadros/sfb2_c.png subtitle="María Jesús Jabato" >}}
+  {{< card link="/publicaciones/la_sociedad_filarmonica_de_burgos_ii" title="LA SOCIEDAD FILARMÓNICA DE BURGOS II" image=/img/cuadros/sfb2_c.png subtitle="María Jesús Jabato" >}}
 
-  {{< card link="/" title="LA EXTRAÑA MUJER DEL SÓTANO" image=/img/cuadros/laextranamujer_c.png subtitle="Jesús J. de la Gándara Martín / Jesús Toledano Escribano" >}}
+  {{< card link="/publicaciones/la_extrana_mujer_del_sotano" title="LA EXTRAÑA MUJER DEL SÓTANO" image=/img/cuadros/laextranamujer_c.png subtitle="Jesús J. de la Gándara Martín / Jesús Toledano Escribano" >}}
 
-  {{< card link="/" title="EL SECRETO DEL ESPOLÓN" image=/img/cuadros/elsecreto_c.png subtitle="Laura Esteban" >}}
+  {{< card link="/publicaciones/el_secreto_del_espolon" title="EL SECRETO DEL ESPOLÓN" image=/img/cuadros/elsecreto_c.png subtitle="Laura Esteban" >}}
 
-  {{< card link="/" title="CALUMNIA" image=/img/cuadros/calumnia_c.png subtitle="José Marrón" >}}
+  {{< card link="/publicaciones/calumnia" title="CALUMNIA" image=/img/cuadros/calumnia_c.png subtitle="José Marrón" >}}
 
-  {{< card link="/" title="TRES PROMESAS Y UN ARREBATO" image=/img/cuadros/trespromesas_c.png subtitle="Luis Miguel Sánchez Tostado" >}}
+  {{< card link="/publicaciones/tres_promesas_y_un_arrebato" title="TRES PROMESAS Y UN ARREBATO" image=/img/cuadros/trespromesas_c.png subtitle="Luis Miguel Sánchez Tostado" >}}
 
   {{< card link="/publicaciones/un_nuevo_mundo_viene" title="UN NUEVO MUNDO VIENE" image=/img/cuadros/unnuevomundo_c.png subtitle="Jesús J. de la Gándara Martín" >}}
 
