@@ -26,6 +26,8 @@ aventura —y media— (amores imposibles, sexo y mafia chino-madrileña incluid
 
 **CIEN MOTIVOS PARA SUICIDARSE Y UNO (Y MEDIO) PARA NO HACERLO**
 
+Juan Luis Mira Candel
+
 *I Premio Suabia de Novela Corta de Humor*
 
 **ISBN:** 978-84-122697-1-0

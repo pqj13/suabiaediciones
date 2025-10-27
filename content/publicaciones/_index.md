@@ -35,9 +35,9 @@ breadcrumbs: false
 
   {{< card link="/" title="LA SOCIEDAD FILARMÓNICA DE BURGOS I" image=/img/cuadros/sfb1_c.png subtitle="María Jesús Jabato" >}}
 
-  {{< card link="/" title="CATEDRAL, LÉGAMO Y MAGDALENAS" image=/img/cuadros/catedral_legamo_c.png subtitle="Jesús Toledano Escribano" >}}
+  {{< card link="/publicaciones/catedral_legamo_y_magdalenas" title="CATEDRAL, LÉGAMO Y MAGDALENAS" image=/img/cuadros/catedral_legamo_c.png subtitle="Jesús Toledano Escribano" >}}
 
-  {{< card link="/" title="EL DESPERTAR DE LOS SIGLOS" image=/img/cuadros/eldespertar_c.png subtitle="Esther Pardiñas / Fernando Ortega" >}}
+  {{< card link="/publicaciones/el_despertar_de_los_siglos" title="EL DESPERTAR DE LOS SIGLOS" image=/img/cuadros/eldespertar_c.png subtitle="Esther Pardiñas / Fernando Ortega" >}}
 
   {{< card link="/publicaciones/cien_motivos_para_suicidarse" title="CIEN MOTIVOS PARA SUICIDARSE (...)" image=/img/cuadros/cienmotivos_c.png subtitle="Juan Luis Mira Candel" >}}
 

@@ -27,6 +27,8 @@ Manuel, niño del coro, descubre en la sacristía de la catedral algo que compar
 
 **LOS ÁNGELES DE LA CATEDRAL**
 
+María Jesús Jabato (texto) / Laura Esteban (ilustraciones)
+
 **ISBN:** 978-84-09-16182-9
 
 **Segunda Edición:** Septiembre de 2023

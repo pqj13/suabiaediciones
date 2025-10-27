@@ -23,6 +23,8 @@ Fernando Ortega Barriuso
 
 **BURGOS, MEMORIA SENTIMENTAL**
 
+Fernando Ortega Barriuso
+
 **ISBN:** 978-84-122697-0-3
 
 **Publicación:** Noviembre de 2020

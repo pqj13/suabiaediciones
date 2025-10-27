@@ -24,6 +24,8 @@ formaban la oferta de ocio de Las Llanas de Burgos, Fernán González y La Flora
 
 **SI TE DICEN QUE SALÍ...**
 
+Jesús Toledano Escribano
+
 **ISBN:** 978-84-941086-1-7
 
 **Cuarta Edición:** Octubre de 2020
