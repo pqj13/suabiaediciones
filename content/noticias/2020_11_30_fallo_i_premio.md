@@ -11,7 +11,7 @@ Libreros de Burgos y Jesús Toledano Escribano, escritor y Presidente de Suabia 
 
 **CIEN MOTIVOS PARA SUICIDARSE Y UNO Y MEDIO PARA NO HACERLO**
 
-de **JUAN LUIS MIRA CANDEL**
+de **Juan Luis Mira Candel**
 
 El jurado ha valorado especialmente la técnica correcta de la novela y su ejecución, que se resuelve con tensión y frescura.
 
