@@ -5,5 +5,3 @@ cascade:
     type: blog
     breadcrumbs: false
 ---
-
- ## Noticias

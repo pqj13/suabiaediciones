@@ -27,7 +27,7 @@ breadcrumbs: false
 
   {{< card link="/" title="TRES PROMESAS Y UN ARREBATO" image=/img/cuadros/trespromesas_c.png subtitle="Luis Miguel Sánchez Tostado" >}}
 
-  {{< card link="/" title="UN NUEVO MUNDO VIENE" image=/img/cuadros/unnuevomundo_c.png subtitle="Jesús J. de la Gándara Martín" >}}
+  {{< card link="/publicaciones/un_nuevo_mundo_viene" title="UN NUEVO MUNDO VIENE" image=/img/cuadros/unnuevomundo_c.png subtitle="Jesús J. de la Gándara Martín" >}}
 
   {{< card link="/publicaciones/puro_umbral" title="PURO UMBRAL" image=/img/cuadros/puroumbral_c.png subtitle="María Jesús Jabato" >}}
 
