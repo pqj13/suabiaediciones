@@ -1,0 +1,14 @@
+.content {
+  font-size: 13pt;
+}
+
+:root {
+  --primary-hue: 215deg;
+  --primary-saturation: 49%;
+  --primary-lightness: 42%;
+}
+
+.hextra-footer {
+  /* Styles will be applied to the footer element */
+background-color: #edf3fc;;
+}
