@@ -29,7 +29,7 @@ menu:
       pageRef: /publicaciones
       weight: 1
     - identifier: premio
-      name: Premio
+      name: Premio novela corta
       pageRef: /premio
       weight: 2
     - identifier: noticias
