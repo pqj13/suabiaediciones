@@ -33,7 +33,7 @@ breadcrumbs: false
 
   {{< card link="/" title="APTO CUM LAUDE" image=/img/cuadros/aptocumlaude_c.png subtitle="José Nicanor Alonso Álvarez" >}}
 
-  {{< card link="/" title="LA SOCIEDAD FILARMÓNICA DE BURGOS I" image=/img/cuadros/sfb1_c.png subtitle="María Jesús Jabato" >}}
+  {{< card link="/publicaciones/la_sociedad_filarmonica_de_burgos_i" title="LA SOCIEDAD FILARMÓNICA DE BURGOS I" image=/img/cuadros/sfb1_c.png subtitle="María Jesús Jabato" >}}
 
   {{< card link="/publicaciones/catedral_legamo_y_magdalenas" title="CATEDRAL, LÉGAMO Y MAGDALENAS" image=/img/cuadros/catedral_legamo_c.png subtitle="Jesús Toledano Escribano" >}}
 
