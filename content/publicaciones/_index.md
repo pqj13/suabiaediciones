@@ -39,9 +39,9 @@ breadcrumbs: false
 
   {{< card link="/" title="EL DESPERTAR DE LOS SIGLOS" image=/img/cuadros/eldespertar_c.png subtitle="Esther Pardiñas / Fernando Ortega" >}}
 
-  {{< card link="/" title="CIEN MOTIVOS PARA SUICIDARSE (...)" image=/img/cuadros/cienmotivos_c.png subtitle="Juan Luis Mira Candel" >}}
+  {{< card link="/publicaciones/cien_motivos_para_suicidarse" title="CIEN MOTIVOS PARA SUICIDARSE (...)" image=/img/cuadros/cienmotivos_c.png subtitle="Juan Luis Mira Candel" >}}
 
-  {{< card link="/" title="BURGOS, MEMORIA SENTIMENTAL" image=/img/cuadros/burgosmemoria_c.png subtitle="Fernando Ortega Barriuso" >}}
+  {{< card link="/publicaciones/burgos_memoria_sentimental" title="BURGOS, MEMORIA SENTIMENTAL" image=/img/cuadros/burgosmemoria_c.png subtitle="Fernando Ortega Barriuso" >}}
 
   {{< card link="/publicaciones/si_te_dicen_que_sali" title="SI TE DICEN QUE SALÍ..." image=/img/cuadros/sitedicen_c.png subtitle="Jesús Toledano Escribano" >}}
 

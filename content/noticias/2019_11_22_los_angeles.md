@@ -3,6 +3,9 @@ title: Presentación de «Los ángeles de la Catedral»
 date: 2019-11-22
 authors:
   - name: Suabia Ediciones
+cascade:
+  sidebar:
+    exclude: true
 # tags:
 #  - Noticia
 ---

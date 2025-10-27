@@ -3,6 +3,9 @@ title: Fallo del I Premio Suabia de Novela Corta de Humor»
 date: 2020-11-30
 authors:
   - name: Suabia Ediciones
+cascade:
+  sidebar:
+    exclude: true
 # tags:
 #  - Noticia
 ---

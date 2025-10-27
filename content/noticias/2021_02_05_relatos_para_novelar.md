@@ -3,6 +3,9 @@ title: Relatos para novelar las grandezas y miserias de la historia de Burgos
 date: 2021-02-05
 authors:
   - name: Suabia Ediciones
+cascade:
+  sidebar:
+    exclude: true
 # tags:
 #  - Noticia
 ---

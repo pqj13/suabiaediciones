@@ -3,6 +3,9 @@ title: Presentación de «El secreto del Espolón»
 date: 2023-11-21
 authors:
   - name: Suabia Ediciones
+cascade:
+  sidebar:
+    exclude: true
 # tags:
 #  - Noticia
 ---
