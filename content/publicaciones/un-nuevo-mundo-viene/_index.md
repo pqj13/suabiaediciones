@@ -1,5 +1,5 @@
 ---
-title: Un nuevo mundo viene. Crónicas para no olvidar lo que pasó
+title: Un nuevo mundo viene
 description: Jesús J. de la Gándara Martín. Siempre ha habido cambios tras las grandes pandemias. A la mayor de todas ellas debería seguirle el mayor cambio de la historia de la humanidad. El asunto COVID ha mostrado la fragilidad de la vida moderna, la vulnerabilidad de la salud, la inestabilidad de la economía, la inseguridad de la política y la importancia de la ciencia para salvarnos la vida y de la cultura para amenizarla.
 toc: false
 breadcrumbs: true
