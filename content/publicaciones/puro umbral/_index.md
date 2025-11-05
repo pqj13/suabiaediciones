@@ -1,4 +1,5 @@
 ---
+linkTitle: Puro Umbral
 title: Puro Umbral. Las columnas de Francisco Umbral en Diario de Burgos
 description: María Jesús Jabato. Francisco Umbral (1932-2007) escribió entre 1969 y 1975 para la agencia Colpisa, dirigida por el periodista Manu Leguineche. Fruto de esa actividad fue su serie de columnas tituladas Crónica de Madrid, con las que alcanzó gran notoriedad. Diario de Burgos fue uno de los periódicos en los que se publicaron estas colaboraciones. 
 toc: false

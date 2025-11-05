@@ -1,4 +1,5 @@
 ---
+linkTitle: Cien motivos para suicidarse
 title: Cien motivos para suicidarse y uno (y medio) para no hacerlo
 description: Juan Luis Mira Candel. I Premio Suabia de Novela Corta de Humor. La risa es el orgasmo de la inteligencia, por eso, si la perdemos, como que terminamos pareciendo más tontos de lo que somos.
 toc: false

@@ -7,10 +7,10 @@ breadcrumbs: false
 <br class="hx:sm:block hx:hidden" />
 
 {{< cards >}}
- 
-  {{< card link="/publicaciones/los-abrazos-inhabitados" title="LOS ABRAZOS INHABITADOS" image=/img/cuadros/losabrazos_c.png subtitle="Pablo Rodríguez González" >}}
 
   {{< card link="/publicaciones/cuentos-para-no-contar" title="CUENTOS PARA NO CONTAR" image=/img/cuadros/cuentosparanocontar_c.png subtitle="Pablo del Barco" >}}
+ 
+  {{< card link="/publicaciones/los-abrazos-inhabitados" title="LOS ABRAZOS INHABITADOS" image=/img/cuadros/losabrazos_c.png subtitle="Pablo Rodríguez González" >}}
 
   {{< card link="/publicaciones/cuaderno-de-viaje-de-comillas" title="CUADERNO DE VIAJE DE COMILLAS" image=/img/cuadros/cuadernodeviaje_c.png subtitle="María Jesús Jabato / Laura Esteban" >}}
 

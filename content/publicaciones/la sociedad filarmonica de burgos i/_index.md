@@ -1,4 +1,5 @@
 ---
+linkTitle: La Sociedad Filarmónica de Burgos I
 title: La Sociedad Filarmónica de Burgos. Los primeros 25 años (1910-1935)
 description: María Jesús Jabato. La Sociedad Filarmónica de Burgos se creó en 1910 gracias al impulso de un grupo de burgaleses amantes de la música culta, encabezados por Elías Ortiz de la Torre, con el fin de ofrecer conciertos interoretados por o s principales musIcos del momento. Como en todas las filarmónicas. una masa social sustentaba con el pago de cuotas periódicas las audiciones. que se celebraban en elTeatro Principal.
 toc: false
