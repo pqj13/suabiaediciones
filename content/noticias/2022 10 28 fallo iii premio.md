@@ -1,5 +1,5 @@
 ---
-title: Fallo del II Premio Suabia de Novela Corta de Humor»
+title: Fallo del III Premio Suabia de Novela Corta de Humor»
 date: 2022-10-28
 authors:
   - name: Suabia Ediciones
