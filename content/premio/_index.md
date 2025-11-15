@@ -9,7 +9,7 @@ Celebradas las tres primeras ediciones, el Premio Suabia de Novela Corta de Humo
 
 Se convocarán oportunamente las bases correspondientes a la IV Edición.
 
-## Ganadores
+## Galardonados
 
 {{% details title="I Premio (2020)" closed="true" %}}
 

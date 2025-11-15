@@ -16,11 +16,6 @@ Luis Miguel Sánchez Tostado
 ![](/img/banners/trespromesas_banner.png)
 
 ---
-{{< callout type="info" >}}
-PÁGINA EN CONSTRUCCIÓN
-{{< /callout >}}
-
----
 
 **TRES PROMESAS Y UN ARREBATO**
 
@@ -28,9 +23,9 @@ Luis Miguel Sánchez Tostado
 
 *III Premio Suabia de Novela Corta de Humor*
 
-**ISBN:** 
+**ISBN:** 978-84-122697-9-6
 
-**Publicación:** 
+**Publicación:** Diciembre de 2022
 
 **PVP:** 15 €
 
