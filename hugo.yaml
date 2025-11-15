@@ -40,7 +40,7 @@ menu:
       name: Contacto
       params:
         type: link
-        icon: user
+#        icon: user
       pageRef: /contacto
       weight: 4
     - name: Search
