@@ -2,7 +2,13 @@
 title:
 toc: false
 ---
-![Suabia Ediciones](/img/suabia/logo.png)
+{{< figure
+  src="/img/suabia/logo.png"
+  alt="Logo Suabia Ediciones"
+  width="40%"
+>}}
+
+---
 
 Suabia Ediciones es una plataforma editorial nacida en Burgos en noviembre de 2019, coincidiendo con el VIII centenario del matrimonio de Beatriz de Suabia con Fernando III el Santo en la catedral de Burgos.
 
