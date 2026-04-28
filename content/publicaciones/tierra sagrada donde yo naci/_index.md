@@ -1,5 +1,5 @@
 ---
-title: Tierra sagrada donde yo nací, suelo bendito donde moriré
+title: Tierra sagrada donde yo nací, suelo bendito donde moriré - 100 años cantando unidos
 description: M.ª Ángeles Vázquez. Publicar un libro que celebra el centenario del himno de tu ciudad, es un acontecimiento de gran relevancia, especialmente cuando se trata de un símbolo tan profundamente arraigado en la identidad de Burgos, mi ciudad natal.Este himno no solo representa una melodía, sino que encarna la historia, la cultura y el espíritu de una comunidad que ha evolucionado a lo largo de los años.
 toc: false
 breadcrumbs: true
@@ -33,7 +33,7 @@ M.ª Ángeles Vázquez
 
 ---
 
-**TIERRA SAGRADA DONDE YO NACÍ, SUELO BENDITO DONDE MORIRÉ**
+**TIERRA SAGRADA DONDE YO NACÍ, SUELO BENDITO DONDE MORIRÉ. 100 AÑOS CANTANDO UNIDOS**
 
 M.ª Ángeles Vázquez de Luis
 
