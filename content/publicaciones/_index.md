@@ -8,6 +8,8 @@ breadcrumbs: false
 
 {{< cards >}}
 
+  {{< card link="/publicaciones/tierra-sagrada-donde-yo-naci" title="TIERRA SAGRADA DONDE YO NACÍ, SUELO BENDITO DONDE MORIRÉ" image=/img/cuadros/cuentosparanocontar_c.png subtitle="M.ª Ángeles Vázquez de Luis" >}}
+
   {{< card link="/publicaciones/cuentos-para-no-contar" title="CUENTOS PARA NO CONTAR" image=/img/cuadros/cuentosparanocontar_c.png subtitle="Pablo del Barco" >}}
  
   {{< card link="/publicaciones/los-abrazos-inhabitados" title="LOS ABRAZOS INHABITADOS" image=/img/cuadros/losabrazos_c.png subtitle="Pablo Rodríguez González" >}}
