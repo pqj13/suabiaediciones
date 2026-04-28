@@ -8,7 +8,7 @@ breadcrumbs: false
 
 {{< cards >}}
 
-  {{< card link="/publicaciones/tierra-sagrada-donde-yo-naci" title="TIERRA SAGRADA DONDE YO NACÍ, SUELO BENDITO DONDE MORIRÉ" image=/img/cuadros/cuentosparanocontar_c.png subtitle="M.ª Ángeles Vázquez de Luis" >}}
+  {{< card link="/publicaciones/tierra-sagrada-donde-yo-naci" title="TIERRA SAGRADA DONDE YO NACÍ, SUELO BENDITO DONDE MORIRÉ" image=/img/cuadros/tierrasagrada_c.png subtitle="M.ª Ángeles Vázquez de Luis" >}}
 
   {{< card link="/publicaciones/cuentos-para-no-contar" title="CUENTOS PARA NO CONTAR" image=/img/cuadros/cuentosparanocontar_c.png subtitle="Pablo del Barco" >}}
  
