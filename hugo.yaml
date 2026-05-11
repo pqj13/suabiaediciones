@@ -95,7 +95,7 @@ params:
 
   banner:
     key: "announcement"
-    message: Presentación del libro «Tierra sagrada donde yo nací, suelo bendito donde moriré» en la **Sala Polisón del Teatro Principal, el [martes 19 de mayo a las 20:00 h**](/noticias/2026-05-08-tierra-sagrada/) 
+    message: Presentación de los libros [«Tal como fuimos. Burgos 1971» el **lunes 18 de mayo a las 20:00 h**](/noticias/2026-05-11-burgos-1971/) y [«Tierra sagrada donde yo nací, suelo bendito donde moriré» el **martes 19 de mayo a las 20:00 h**](/noticias/2026-05-08-tierra-sagrada/) 
 
   page:
     # full (100%), wide (90rem), normal (80rem)
