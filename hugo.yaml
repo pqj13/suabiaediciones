@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Suabia Ediciones | Editorial | Burgos
+baseURL: http://suabiaediciones.com/
 
 # import hextra as module
 module:
