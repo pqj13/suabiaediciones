@@ -12,6 +12,10 @@ cascade:
 #  - Noticia
 ---
 
+![Fotografía](/img/otros/tierrasagrada_foto.jpg)
+
+---
+
 ![invitación](/img/otros/tierrasagrada_invitacion.jpg)
 
 ---
